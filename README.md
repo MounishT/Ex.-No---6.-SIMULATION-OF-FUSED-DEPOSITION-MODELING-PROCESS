@@ -18,7 +18,7 @@
 
 ## Output:
 ![Screenshot 2023-11-27 143854](https://github.com/MounishT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138955798/ce567313-4e6e-475d-8072-0eca747b75ce)
-![Screenshot 2023-11-27 143854](https://github.com/MounishT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138955798/b353c210-57f5-4eb5-9363-2d9fb968e7d7)
+![image](https://github.com/MounishT/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/138955798/d446d844-3433-41e0-bbb2-38f316b6ce8c)
 
 ### Name:T MOUNISH
 ### Register Number:23002806
